@@ -2,6 +2,6 @@
 ![bose_logo](./images/bose_logo.png)
 ## Hi, I'm a student
 
-#### I wanna do various programming.
+## I wanna do various programming.
 
-#### Nice to meet you.
+## Nice to meet you.
